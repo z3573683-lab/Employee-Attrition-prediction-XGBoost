@@ -43,6 +43,17 @@ We utilized **XGBoost (Extreme Gradient Boosting)**, a powerful ensemble learnin
 ![Confusion Matrix](<  <img width="546" height="455" alt="convfusion Matrix" src="https://github.com/user-attachments/assets/c0d28440-a4c6-4397-ab77-24caf3348305" />
    >)
 
+​📊 Model Evaluation: Confusion Matrix Analysis
+
+​The Confusion Matrix provides a detailed breakdown of our XGBoost model's performance in predicting employee turnover:
+​True Negatives (Stayed): 232 employees were correctly predicted to stay.
+​True Positives (Left): 15 employees were correctly predicted to leave.
+​Key Insight: The model shows high reliability in identifying employees who will stay, helping HR focus on retention strategies where they are most needed.
+
+​بالعربي
+
+​تحليل مصفوفة الارتباك (Confusion Matrix):
+توضح هذه المصفوفة دقة توقعات خوارزمية XGBoost؛ حيث نجح النموذج في تحديد 232 موظفاً سيستمرون في العمل بشكل صحيح، مما يعكس قدرة النموذج على تصنيف الحالات بدقة عالية ودعم اتخاذ القرارات الإدارية.
 
 ---
 
